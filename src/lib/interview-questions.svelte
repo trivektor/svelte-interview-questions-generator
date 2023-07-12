@@ -179,5 +179,6 @@
 	pre {
 		font-family: inherit;
 		white-space: pre-line;
+		margin: 0;
 	}
 </style>
