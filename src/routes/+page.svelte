@@ -14,9 +14,20 @@
 			{dense}
 			color={secondaryColor ? 'secondary' : 'primary'}
 		>
-			<Section>
-				<Title>Software Engineer Interview Questions Generator</Title>
-			</Section>
+			<Row>
+				<Section>
+					<Title>Software Engineer Interview Questions Generator</Title>
+				</Section>
+				<Section align="end">
+					<a href="https://www.buymeacoffee.com/trivektor" target="_blank"
+						><img
+							src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+							alt="Buy Me A Coffee"
+							style="height: 40px !important"
+						/></a
+					>
+				</Section>
+			</Row>
 		</TopAppBar>
 		<div class="main-content">
 			<InterviewQuestions />
